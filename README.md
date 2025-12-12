@@ -1,2 +1,2 @@
 # testrepo-
-for DataSci classs
+for DataSci class 
